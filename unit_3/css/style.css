@@ -12,10 +12,14 @@ h1 {
 }
 
 p {
-	font size: 28px;
+	font size: 18px;
 	font-style: italic;
 	text-align: center;
 
+}
+
+hr{
+	width: 800 px;
 }
 
 img {
@@ -25,5 +29,7 @@ img {
 }
 
 ul {
-	
+	font-size: 30px;
+	font-style: normal;
+	text-align: center;
 }
