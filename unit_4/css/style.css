@@ -1,10 +1,10 @@
+@import url('https://fonts.googleapis.com/css?family=Poiret+One&display=swap');
 body {
 	background-color: #D8DAD0;
-	font-family: Helvetica;
 }
 
 h1 {
-	font-family: Helvetica;
+	font-family: 'Poiret One', cursive;
 	font-size: 50px;
 	font-weight: bold;
 	text-align: center;
