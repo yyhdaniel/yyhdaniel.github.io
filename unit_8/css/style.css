@@ -22,6 +22,17 @@ nav {
 	padding-left: 1em;
 }
 
+nav a { 
+	color: black;
+	margin-right: 1em;
+	text-decoration: none;
+	display: block;
+	float: left;
+}
+
+nav a:hover {
+	color: #C39515;
+	
 aside {
 	background-color: #FFC675;
 	border: 1px black solid;
