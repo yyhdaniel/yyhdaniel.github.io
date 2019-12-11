@@ -1,0 +1,135 @@
+@import url('https://fonts.googleapis.com/css?family=Alfa+Slab+One|Montserrat&display=swap');
+
+
+
+body {
+	background-color: #D8DAD0;
+}
+
+header {
+	background-color: #FFED74;
+	border: 1px black solid;
+	padding: 1em;
+}
+
+nav {
+	background-color: #E8C66A;
+	font-weight: bold;
+	font-size: 1em;
+	font-family: Helvetica;
+	line-height: 3.5em;
+	text-align: left;
+	padding-left: 1em;
+}
+
+aside {
+	background-color: #FFC675;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+article {
+	background-color: #E89C6C;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+footer {
+	background-color: #FF957E;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+div {
+	background-color: #FFE2B8;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+section {
+	background-color: #FFE2B8;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+h1 {
+	font-family: 'Alfa Slab One', cursive;
+	font-size: 50px;
+	font-weight: bold;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+p {
+	font-family: 'Montserrat', sans-serif;
+	font size: 18px;
+	font-style: italic;
+	text-align: center;
+
+}
+
+h2 {
+		font-family: 'Alfa Slab One', cursive;
+
+}
+
+ul {
+		font-family: 'Montserrat', sans-serif;
+}
+hr{
+	width: 600 px;
+}
+
+img {
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+a{
+	margin-left: 50%;
+}
+
+#two_column {
+    background-color: #FFB7CF;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+#left {
+    background-color: #E582A2;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+#right {
+    background-color: #E55B88;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+#left {
+    background-color: violet;
+    border: 1px black solid;
+    padding: 20px;
+    float: left;
+    width: 30%;
+}
+
+#right {
+    background-color: pink;
+    border: 1px black solid;
+    padding: 20px;
+    float: right;   
+    width: 62%;
+}
+
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+
