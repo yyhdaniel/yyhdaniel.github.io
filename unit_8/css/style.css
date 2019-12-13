@@ -5,14 +5,14 @@
 	margin: 0;
 }
 body {
-	background-color: #1E90FF;
+	background-color: #FFE2B8;
 	font-size:1em;
 	line-height: 2em;
 	text-align: center;
 }
 
 head {
-	background-color: #FFED74;
+	background-color: #FFE2B8;
 	border: 2em black solid;
 	padding: 2em;
 }
@@ -39,13 +39,11 @@ nav a:hover {
 
 
 article {
-	background-color: #E89C6C;
-	border: 1em black solid;
-	padding: 1.5em;
+	background-color: #FFE2B8;
 }
 
 footer {
-	background-color: #FF957E;
+	background-color: #FFE2B8;
 	border: 1em black solid;
 	padding: 1em;
 }
@@ -98,25 +96,25 @@ hr{
 }
 
 #two_column {
-    background-color: #FFB7CF;
+    background-color: #FFE2B8;
     border: 1px black solid;
     padding: 5%;
 }
 
 #left {
-    background-color: #E582A2;
+    background-color: #FFE2B8;
     border: 1px black solid;
     padding:10%;
 }
 
 #right {
-    background-color: #E55B88;
+    background-color: #FFE2B8;
     border: 1px black solid;
     padding: 20%;
 }
 
 #left {
-    background-color: violet;
+    background-color: #FFE2B8;
     border: 1px black solid;
     padding: 20px;
     float: left;
@@ -124,7 +122,7 @@ hr{
 }
 
 #right {
-    background-color: pink;
+    background-color: #FFE2B8;
     border: 1px black solid;
     padding: 20px;
     float: right;   
