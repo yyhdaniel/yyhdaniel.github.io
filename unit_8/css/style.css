@@ -1,19 +1,24 @@
 @import url('https://fonts.googleapis.com/css?family=Alfa+Slab+One|Montserrat&display=swap');
 
-
-
+* {
+	padding: 0;
+	margin: 0;
+}
 body {
-	background-color: #D8DAD0;
+	background-color: #1E90FF;
+	font-size:1em;
+	line-height: 2em;
+	text-align: center;
 }
 
-header {
+head {
 	background-color: #FFED74;
-	border: 1px black solid;
-	padding: 1em;
+	border: 2em black solid;
+	padding: 2em;
 }
 
 nav {
-	background-color: #E8C66A;
+	background-color: #E78714;
 	font-weight: bold;
 	font-size: 1em;
 	font-family: Helvetica;
@@ -21,7 +26,6 @@ nav {
 	text-align: left;
 	padding-left: 1em;
 }
-
 nav a { 
 	color: black;
 	margin-right: 1em;
@@ -29,43 +33,38 @@ nav a {
 	display: block;
 	float: left;
 }
-
 nav a:hover {
-	color: #C39515;
-	
-aside {
-	background-color: #FFC675;
-	border: 1px black solid;
-	padding: 20px;
+	color: #1451E7;
 }
+
 
 article {
 	background-color: #E89C6C;
-	border: 1px black solid;
-	padding: 20px;
+	border: 1em black solid;
+	padding: 1.5em;
 }
 
 footer {
 	background-color: #FF957E;
-	border: 1px black solid;
-	padding: 20px;
+	border: 1em black solid;
+	padding: 1em;
 }
 
 div {
 	background-color: #FFE2B8;
-	border: 1px black solid;
-	padding: 20px;
+	border: 0.5em black ;
+	padding: 0.5em;
 }
 
 section {
 	background-color: #FFE2B8;
-	border: 1px black solid;
-	padding: 20px;
+	border: 1em black solid;
+	padding: 1em;
 }
 
 h1 {
 	font-family: 'Alfa Slab One', cursive;
-	font-size: 50px;
+	font-size: 2em;
 	font-weight: bold;
 	text-align: center;
 	text-transform: uppercase;
@@ -73,7 +72,7 @@ h1 {
 
 p {
 	font-family: 'Montserrat', sans-serif;
-	font size: 18px;
+	font size: 2em;
 	font-style: italic;
 	text-align: center;
 
@@ -87,36 +86,33 @@ h2 {
 ul {
 		font-family: 'Montserrat', sans-serif;
 }
-hr{
-	width: 600 px;
-}
+
 
 img {
 	display:block;
 	margin-left:auto;
 	margin-right:auto;
 }
-
-a{
-	margin-left: 50%;
+hr{
+	width: 600 px;
 }
 
 #two_column {
     background-color: #FFB7CF;
     border: 1px black solid;
-    padding: 20px;
+    padding: 5%;
 }
 
 #left {
     background-color: #E582A2;
     border: 1px black solid;
-    padding: 20px;
+    padding:10%;
 }
 
 #right {
     background-color: #E55B88;
     border: 1px black solid;
-    padding: 20px;
+    padding: 20%;
 }
 
 #left {
